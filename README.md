@@ -110,7 +110,7 @@ print("Predicted Class for New Food Item:", label_encoder.inverse_transform(pred
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
 
 ![image](https://github.com/user-attachments/assets/a22ed11c-95a0-4214-8761-6fdf9b79bc0d)
 
